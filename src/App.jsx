@@ -2,7 +2,7 @@
 import { useDeferredValue, useEffect, useState } from "react";
 import "./App.css";
 import RoverAPI from "./components/RoverAPI";
-import ApodApi from "./components/apodApi";
+import ApodApi from "./components/ApodApi";
 
 function App() {
   // Recuperamos la fecha actual en un formato ISO -> 2023-01-01 (tuneado para hacerlo con estados)
