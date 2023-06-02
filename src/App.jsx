@@ -1,4 +1,4 @@
-import ApodApi from "./components/apodAPI";
+import ApodApi from "./components/ApodAPI";
 import { useDeferredValue, useEffect, useState } from "react";
 import "./App.css";
 import RoverAPI from "./components/RoverAPI";
